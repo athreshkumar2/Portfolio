@@ -8,7 +8,7 @@
 
 ![Resultado final do projeto](assets/image/preview.png)
 
-<h4 align="center"><a href="https://iuricode.vercel.app/">Click here for a preview</a></h4>
+<h4 align="center"><a href="https://athreshkumar2.github.io/Portfolio/">Click here for a preview</a></h4>
 
 ## 📚 Sections
 The website consists of 5 different sections:
